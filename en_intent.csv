@@ -1,0 +1,21 @@
+text,intent
+hello,greet
+how are you,greet
+good morning,greet
+hey there,greet
+what's up,greet
+nice to meet you,greet
+how's it going,greet
+book a flight,book
+reserve a ticket,book
+I need to book a flight,book
+can you help me book a ticket?,book
+schedule a flight to London,book
+cancel my booking,book
+what's the weather,weather
+will it rain tomorrow?,weather
+is it sunny today?,weather
+weather forecast,weather
+temperature in New York,weather
+humidity level,weather
+should I carry an umbrella?,weather

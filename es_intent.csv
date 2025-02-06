@@ -1,0 +1,21 @@
+text,intent
+hola,greet
+cómo estás,greet
+buenos días,greet
+qué tal,greet
+encantado de conocerte,greet
+cómo te va,greet
+qué hay de nuevo,greet
+reservar un vuelo,book
+necesito reservar un billete,book
+quiero reservar un vuelo a Madrid,book
+ayúdame a reservar un ticket,book
+cancelar mi reserva,book
+reserva una fecha para París,book
+qué tiempo hace,weather
+lloverá mañana?,weather
+hace sol hoy?,weather
+pronóstico del tiempo,weather
+temperatura en Barcelona,weather
+nivel de humedad,weather
+debo llevar paraguas?,weather

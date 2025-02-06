@@ -1,0 +1,21 @@
+text,intent
+bonjour,greet
+comment ça va,greet
+salut,greet
+ça roule,greet
+ravi de vous rencontrer,greet
+quoi de neuf,greet
+comment allez-vous,greet
+réserver un vol,book
+je dois réserver un billet,book
+aidez-moi à réserver un ticket,book
+annuler ma réservation,book
+planifier un vol pour Lyon,book
+réserver une place,book
+quel temps fait-il,weather
+va-t-il pleuvoir demain?,weather
+fait-il beau aujourd'hui?,weather
+prévisions météo,weather
+température à Marseille,weather
+niveau d'humidité,weather
+dois-je prendre un parapluie?,weather
